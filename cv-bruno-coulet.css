@@ -156,6 +156,7 @@ aside section#gauche{
     box-shadow:  17px 17px 34px #726f6f;
     transform: skewX(4deg);
     height: 70vh;
+    min-height: 870px;
     width: 130%;
 }
 
