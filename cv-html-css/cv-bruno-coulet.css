@@ -191,6 +191,7 @@ nav a:nth-child(1){background: linear-gradient(145deg, #299545, #30b252);}
 nav a:nth-child(2){background: rgba(60, 181, 209, 0.82);}
 nav a:nth-child(3){background: rgba(255, 125, 130, 0.82);}
 nav a:nth-child(4){background: rgba(255, 206, 8, 0.973); }
+nav a:nth-child(7){background: rgba(44, 175, 14, 0.973); }
 
 a:hover{
     font-weight:900;
